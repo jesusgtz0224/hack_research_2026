@@ -15,7 +15,7 @@ glot = load_glottolog(glottolog_path)
 rows = []
 for path in wikipron_path:
     words = load_wikipron(path)
-    rows.append({"iso": iso_from_filename(path), "n_words": len(words)})
+    rows.append({"iso": iso_from_filename(path), "n_words": len(words), "path": str(path)})
 wp = pd.DataFrame(rows)
 
 processed_dir = PROJECT_ROOT / "data/processed"
