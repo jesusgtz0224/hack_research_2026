@@ -1,0 +1,16 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+scikit-bio
+statsmodels
+panphon
+umap-learn
+plotly
+kaleido
+matplotlib
+seaborn
+pycldf
+langcodes
+tqdm
