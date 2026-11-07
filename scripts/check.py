@@ -15,6 +15,6 @@ D = np.load(config.PROCESSED / "dist_class_combined.npy")
 meta = pd.read_parquet(config.PROCESSED / "metadata_aligned_class.parquet")
 print(np.allclose(D, D.T), np.allclose(np.diag(D), 0))
 
-i = meta.index[meta["iso"] == "spa"][0]
+i = meta.index[meta["iso"] == "swe"][0]
 for j in np.argsort(D[i])[1:8]:
     print(meta.loc[j, "iso"], meta.loc[j, "Name"], round(D[i, j], 3))

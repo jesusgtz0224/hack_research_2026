@@ -1,3 +1,299 @@
 iso,n_words,path,ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Level,Countries,Family_ID,Language_ID,Closest_ISO369P3code,First_Year_Of_Documentation,Last_Year_Of_Documentation,Is_Isolate
+grc,198102,/workspaces/hack_research_2026/data/raw/wikipron/grc_grek_broad.tsv,anci1242,Ionic-Attic Ancient Greek,Eurasia,39.8155,21.9129,anci1242,grc,language,GR,indo1319,,grc,-500,-300,false
+por,188055,/workspaces/hack_research_2026/data/raw/wikipron/por_latn_bz_broad.tsv,port1283,Portuguese,Eurasia,39.91,-8.1,port1283,por,language,AD;AR;BO;BR;CO;ES;FR;GF;GY;PE;PT;PY;SR;UY;VE,indo1319,,por,,,false
+fin,173449,/workspaces/hack_research_2026/data/raw/wikipron/fin_latn_broad.tsv,finn1318,Finnish,Eurasia,64.7628,25.5577,finn1318,fin,language,EE;FI;NO;RU;SE,ural1272,,fin,,,false
+cmn,168655,/workspaces/hack_research_2026/data/raw/wikipron/cmn_hani_standard_broad.tsv,mand1415,Mandarin Chinese,Eurasia,40.0209,116.228,mand1415,cmn,language,CN;KP;LA;MM;MN;RU;TW;VN,sino1245,,cmn,,,false
+pol,157042,/workspaces/hack_research_2026/data/raw/wikipron/pol_latn_broad.tsv,poli1260,Polish,Eurasia,51.8439,18.6255,poli1260,pol,language,BY;CZ;DE;LT;PL;RU;SK;UA,indo1319,,pol,,,false
+spa,137542,/workspaces/hack_research_2026/data/raw/wikipron/spa_latn_ca_broad.tsv,stan1288,Spanish,Eurasia,40.4414,-1.11788,stan1288,spa,language,AD;AR;BO;BR;BZ;CL;CO;CR;CU;DO;EC;ES;FR;GI;GT;GY;HN;HT;MA;MX;NI;PA;PE;PR;PT;PY;SV;US;UY;VE,indo1319,,spa,,,false
+yue,116020,/workspaces/hack_research_2026/data/raw/wikipron/yue_hani_standard_broad.tsv,yuec1235,Yue Chinese,Eurasia,23.0,113.0,yuec1235,yue,language,CN;VN,sino1245,,yue,,,false
 eng,106931,/workspaces/hack_research_2026/data/raw/wikipron/eng_latn_us_broad.tsv,stan1293,English,Africa;Eurasia;South America,53.0,-1.0,stan1293,eng,language,AU;BM;BR;BZ;CA;CC;CK;CU;CX;DO;FK;GB;GG;GI;GP;GS;GT;GY;HN;IE;IM;IO;JE;KY;LR;MX;NF;PN;SH;SR;UM;US;VE;ZA,indo1319,,eng,,,false
-spa,133085,/workspaces/hack_research_2026/data/raw/wikipron/spa_latn_la_broad_filtered.tsv,stan1288,Spanish,Eurasia,40.4414,-1.11788,stan1288,spa,language,AD;AR;BO;BR;BZ;CL;CO;CR;CU;DO;EC;ES;FR;GI;GT;GY;HN;HT;MA;MX;NI;PA;PE;PR;PT;PY;SV;US;UY;VE,indo1319,,spa,,,false
+fra,97652,/workspaces/hack_research_2026/data/raw/wikipron/fra_latn_broad.tsv,stan1290,French,Eurasia,48.0,2.0,stan1290,fra,language,AD;BE;CA;CH;FR;GF;IT;LU;MC;PM;TF;US,indo1319,,fra,,,false
+ita,89608,/workspaces/hack_research_2026/data/raw/wikipron/ita_latn_broad.tsv,ital1282,Italian,Eurasia,43.0464,12.6489,ital1282,ita,language,AT;CH;FR;HR;IT;SI;SM;VA,indo1319,,ita,,,false
+deu,60277,/workspaces/hack_research_2026/data/raw/wikipron/deu_latn_broad.tsv,stan1295,German,Eurasia,48.649,12.4676,stan1295,deu,language,AT;BE;CH;CZ;DE;DK;FR;HU;IT;LI;LU;NL;PL;RO;SI;SK,indo1319,,deu,,,false
+nld,58539,/workspaces/hack_research_2026/data/raw/wikipron/nld_latn_broad.tsv,dutc1256,Dutch,Eurasia,52.0,5.0,dutc1256,nld,language,AW;BE;BQ;BR;CW;DE;GF;GY;NL;SR;SX,indo1319,,nld,,,false
+ang,55835,/workspaces/hack_research_2026/data/raw/wikipron/ang_latn_broad.tsv,olde1238,Old English (ca. 450-1100),Eurasia,51.06,-1.31,olde1238,ang,language,GB,indo1319,,ang,450,1100,false
+nan,46238,/workspaces/hack_research_2026/data/raw/wikipron/nan_hani_hokkien_broad.tsv,minn1241,Min Nan Chinese,Eurasia,24.5,118.17,minn1241,nan,language,CN;TW,sino1245,,nan,,,false
+epo,41287,/workspaces/hack_research_2026/data/raw/wikipron/epo_latn_broad.tsv,espe1235,Esperanto,Eurasia,49.3273,2.81045,espe1235,epo,language,PL,arti1236,,epo,,,false
+hin,33057,/workspaces/hack_research_2026/data/raw/wikipron/hin_deva_broad.tsv,hind1269,Hindi,Eurasia,25.0,77.0,hind1269,hin,language,BD;BT;IN;NP,indo1319,,hin,,,false
+tgl,28295,/workspaces/hack_research_2026/data/raw/wikipron/tgl_latn_broad.tsv,taga1270,Tagalog,Papunesia,14.06,121.747,taga1270,tgl,language,PH,aust1307,,tgl,,,false
+hbs,27457,/workspaces/hack_research_2026/data/raw/wikipron/hbs_latn_broad.tsv,sout1528,Serbian-Croatian-Bosnian,Eurasia,44.15,18.81,sout1528,hbs,language,RS,indo1319,,hbs,,,false
+mlt,21208,/workspaces/hack_research_2026/data/raw/wikipron/mlt_latn_broad.tsv,malt1254,Maltese,Eurasia,35.8884,14.4508,malt1254,mlt,language,MT,afro1255,,mlt,,,false
+gle,21164,/workspaces/hack_research_2026/data/raw/wikipron/gle_latn_broad.tsv,iris1253,Irish,Eurasia,53.2186,-7.61509,iris1253,gle,language,GB;IE,indo1319,,gle,,,false
+cym,20577,/workspaces/hack_research_2026/data/raw/wikipron/cym_latn_sw_broad.tsv,wels1247,Welsh,Eurasia,52.0,-4.0,wels1247,cym,language,AR;GB,indo1319,,cym,,,false
+eus,20115,/workspaces/hack_research_2026/data/raw/wikipron/eus_latn_broad.tsv,basq1248,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,language,ES;FR,,,eus,,,true
+ltc,19968,/workspaces/hack_research_2026/data/raw/wikipron/ltc_hani_zhengzhang_broad.tsv,midd1344,Middle Chinese,Eurasia,34.27,108.9,midd1344,ltc,language,CN,sino1245,,ltc,601,1150,false
+och,19608,/workspaces/hack_research_2026/data/raw/wikipron/och_hani_zhengzhang_broad.tsv,oldc1244,Old Chinese,Eurasia,36.12,114.32,oldc1244,och,language,CN,sino1245,,och,-1200,400,false
+ell,19601,/workspaces/hack_research_2026/data/raw/wikipron/ell_grek_broad.tsv,mode1248,Modern Greek,Eurasia,38.36,23.13,mode1248,ell,language,AL;BG;CY;EG;GR;IT;MK;RO;TR;UA,indo1319,,ell,,,false
+ind,18590,/workspaces/hack_research_2026/data/raw/wikipron/ind_latn_broad.tsv,indo1316,Standard Indonesian,Papunesia,-7.33458,109.716,indo1316,ind,language,ID;NL;PH;SA;SG;US,aust1307,,ind,,,false
+tha,18416,/workspaces/hack_research_2026/data/raw/wikipron/tha_thai_broad.tsv,thai1261,Thai,Eurasia,14.192,100.671,thai1261,tha,language,KH;MM;TH,taik1256,,tha,,,false
+enm,18272,/workspaces/hack_research_2026/data/raw/wikipron/enm_latn_broad.tsv,midd1317,Middle English,Eurasia,51.65,-1.11,midd1317,enm,language,GB,indo1319,,enm,1100,1500,false
+hye,18090,/workspaces/hack_research_2026/data/raw/wikipron/hye_armn_e_broad.tsv,nucl1235,Eastern Armenian,Eurasia,40.0,45.0,nucl1235,hye,language,AM;AZ;GE;IR;SY;TR,indo1319,,hye,,,false
+san,17859,/workspaces/hack_research_2026/data/raw/wikipron/san_deva_broad.tsv,sans1269,Sanskrit,Eurasia,20.0,77.0,sans1269,san,language,IN,indo1319,,san,-1500,-1100,false
+ara,17563,/workspaces/hack_research_2026/data/raw/wikipron/ara_arab_broad.tsv,,,,,,,,,,,,,,,
+slk,15950,/workspaces/hack_research_2026/data/raw/wikipron/slk_latn_broad.tsv,slov1269,Slovak,Eurasia,48.545705,18.78479,slov1269,slk,language,AT;CZ;HU;PL;RS;SK;UA,indo1319,,slk,,,false
+wuu,14143,/workspaces/hack_research_2026/data/raw/wikipron/wuu_hani_shanghai_broad.tsv,wuch1236,Wu Chinese,Eurasia,29.8621,119.682,wuch1236,wuu,language,CN,sino1245,,wuu,,,false
+tur,12321,/workspaces/hack_research_2026/data/raw/wikipron/tur_latn_broad.tsv,nucl1301,Turkish,Eurasia,39.8667,32.8667,nucl1301,tur,language,AL;AM;AZ;BG;CY;GE;GR;IQ;IR;MK;SY;TR,turk1311,,tur,,,false
+isl,10719,/workspaces/hack_research_2026/data/raw/wikipron/isl_latn_broad.tsv,icel1247,Icelandic,Eurasia,63.4837,-19.0212,icel1247,isl,language,IS,indo1319,,isl,,,false
+tam,10492,/workspaces/hack_research_2026/data/raw/wikipron/tam_taml_broad.tsv,tami1289,Tamil,Eurasia,10.520219,78.825989,tami1289,tam,language,IN;LK,drav1251,,tam,,,false
+mal,10406,/workspaces/hack_research_2026/data/raw/wikipron/mal_mlym_broad.tsv,mala1464,Malayalam,Eurasia,9.59208,76.7651,mala1464,mal,language,IN,drav1251,,mal,,,false
+fas,10312,/workspaces/hack_research_2026/data/raw/wikipron/fas_arab_broad.tsv,,,,,,,,,,,,,,,
+glg,10237,/workspaces/hack_research_2026/data/raw/wikipron/glg_latn_broad.tsv,gali1258,Galician,Eurasia,42.2446,-7.5343,gali1258,glg,language,ES;PT,indo1319,,glg,,,false
+izh,9755,/workspaces/hack_research_2026/data/raw/wikipron/izh_latn_broad.tsv,ingr1248,Ingrian,Eurasia,59.47403,29.71145,ingr1248,izh,language,EE;RU,ural1272,,izh,,,false
+ron,9286,/workspaces/hack_research_2026/data/raw/wikipron/ron_latn_broad.tsv,roma1327,Romanian,Eurasia,46.3913,24.2256,roma1327,ron,language,BG;HU;MD;RO;RS;UA,indo1319,,ron,,,false
+cdo,9099,/workspaces/hack_research_2026/data/raw/wikipron/cdo_hani_fuzhou_broad.tsv,mind1253,Min Dong Chinese,Eurasia,26.0,119.5,mind1253,cdo,language,CN,sino1245,,cdo,,,false
+cpx,8762,/workspaces/hack_research_2026/data/raw/wikipron/cpx_hani_putian_broad.tsv,puxi1243,Pu-Xian Chinese,Eurasia,25.37,118.68,puxi1243,cpx,language,CN,sino1245,,cpx,,,false
+mya,8288,/workspaces/hack_research_2026/data/raw/wikipron/mya_mymr_broad.tsv,nucl1310,Burmese,Eurasia,20.7926,93.9665,nucl1310,mya,language,BD;MM;TH,sino1245,,mya,,,false
+ido,7874,/workspaces/hack_research_2026/data/raw/wikipron/ido_latn_broad.tsv,idoo1234,Ido,Eurasia,,,idoo1234,ido,language,FR,arti1236,,ido,,,false
+urd,7709,/workspaces/hack_research_2026/data/raw/wikipron/urd_arab_broad.tsv,urdu1245,Urdu,Eurasia,25.0,67.0,urdu1245,urd,language,AF;BD;IN;PK,indo1319,,urd,,,false
+ben,7525,/workspaces/hack_research_2026/data/raw/wikipron/ben_beng_rarh_broad.tsv,beng1280,Bengali,Eurasia,24.0,90.0,beng1280,ben,language,BD;IN;NP,indo1319,,ben,,,false
+khm,7108,/workspaces/hack_research_2026/data/raw/wikipron/khm_khmr_broad.tsv,cent1989,Central Khmer,Eurasia,12.0515,105.015,cent1989,khm,language,KH;LA;TH;VN,aust1305,,khm,,,false
+heb,6811,/workspaces/hack_research_2026/data/raw/wikipron/heb_hebr_broad.tsv,hebr1245,Modern Hebrew,Eurasia,31.1056,35.0179,hebr1245,heb,language,IL;JO;LB;PS;SY,afro1255,,heb,,,false
+hak,6673,/workspaces/hack_research_2026/data/raw/wikipron/hak_hani_meixian_broad.tsv,hakk1236,Hakka Chinese,Eurasia,25.0,116.0,hakk1236,hak,language,CN;TW,sino1245,,hak,,,false
+msa,6672,/workspaces/hack_research_2026/data/raw/wikipron/msa_latn_broad.tsv,,,,,,,,,,,,,,,
+hsn,6129,/workspaces/hack_research_2026/data/raw/wikipron/hsn_hani_changsha_broad.tsv,xian1251,Xiang Chinese,Eurasia,27.66847,111.47112,xian1251,hsn,language,CN,sino1245,,hsn,,,false
+gla,6000,/workspaces/hack_research_2026/data/raw/wikipron/gla_latn_broad.tsv,scot1245,Scottish Gaelic,Eurasia,56.7574,-5.24366,scot1245,gla,language,GB,indo1319,,gla,,,false
+slv,5955,/workspaces/hack_research_2026/data/raw/wikipron/slv_latn_broad.tsv,slov1268,Slovenian,Eurasia,46.2543,14.7766,slov1268,slv,language,AT;HR;HU;IT;SI,indo1319,,slv,,,false
+swe,5856,/workspaces/hack_research_2026/data/raw/wikipron/swe_latn_broad.tsv,swed1254,Swedish,Eurasia,59.800634,17.389526,swed1254,swe,language,AX;DK;FI;NO;SE,indo1319,,swe,,,false
+nno,5644,/workspaces/hack_research_2026/data/raw/wikipron/nno_latn_broad.tsv,norw1262,Norwegian Nynorsk,Eurasia,59.92,10.71,norw1262,nno,dialect,,indo1319,norw1258,nno,,,
+sme,5506,/workspaces/hack_research_2026/data/raw/wikipron/sme_latn_broad.tsv,nort2671,North Saami,Eurasia,68.725,22.1113,nort2671,sme,language,FI;NO;RU;SE,ural1272,,sme,,,false
+bcl,5432,/workspaces/hack_research_2026/data/raw/wikipron/bcl_latn_broad.tsv,cent2087,Coastal-Naga Bikol,Papunesia,13.7574,123.403,cent2087,bcl,language,PH,aust1307,,bcl,,,false
+yid,5421,/workspaces/hack_research_2026/data/raw/wikipron/yid_hebr_broad.tsv,,,,,,,,,,,,,,,
+sqi,5376,/workspaces/hack_research_2026/data/raw/wikipron/sqi_latn_broad.tsv,alba1267,Albanian,Eurasia,40.99952028050002,20.791828239250023,alba1267,sqi,family,AL,indo1319,,sqi,,,
+tel,5117,/workspaces/hack_research_2026/data/raw/wikipron/tel_telu_broad.tsv,telu1262,Telugu,Eurasia,16.4529,78.7024,telu1262,tel,language,IN,drav1251,,tel,,,false
+yor,4937,/workspaces/hack_research_2026/data/raw/wikipron/yor_latn_broad.tsv,yoru1245,Yoruba,Africa,7.15345,3.67225,yoru1245,yor,language,BJ;NG,atla1278,,yor,,,false
+mar,4872,/workspaces/hack_research_2026/data/raw/wikipron/mar_deva_broad.tsv,mara1378,Marathi,Eurasia,17.9344,76.6665,mara1378,mar,language,IN,indo1319,,mar,,,false
+dan,4773,/workspaces/hack_research_2026/data/raw/wikipron/dan_latn_broad.tsv,dani1285,Danish,Eurasia,54.8655,9.36284,dani1285,dan,language,DE;DK;FO;GL,indo1319,,dan,,,false
+cjy,4524,/workspaces/hack_research_2026/data/raw/wikipron/cjy_hani_taiyuan_broad.tsv,jiny1235,Jinyu Chinese,Eurasia,38.8284,111.278,jiny1235,cjy,language,CN,sino1245,,cjy,,,false
+guj,4244,/workspaces/hack_research_2026/data/raw/wikipron/guj_gujr_broad.tsv,guja1252,Gujarati,Eurasia,22.687,71.0962,guja1252,guj,language,BD;IN;PK,indo1319,,guj,,,false
+kix,4240,/workspaces/hack_research_2026/data/raw/wikipron/kix_latn_broad.tsv,khia1236,Khiamniungan Naga,Eurasia,26.20076,95.016799,khia1236,kix,language,IN;MM,sino1245,,kix,,,false
+ast,4192,/workspaces/hack_research_2026/data/raw/wikipron/ast_latn_broad.tsv,astu1245,Asturian-Leonese-Cantabrian,Eurasia,42.4181,-6.02227,astu1245,ast,language,ES;PT,indo1319,,ast,,,false
+egy,4177,/workspaces/hack_research_2026/data/raw/wikipron/egy_latn_broad.tsv,egyp1246,Egyptian (Ancient),Africa,28.381735,30.834959,egyp1246,egy,language,EG,afro1255,,egy,,-3000,false
+ceb,4100,/workspaces/hack_research_2026/data/raw/wikipron/ceb_latn_broad.tsv,cebu1242,Cebuano,Papunesia,8.38799,124.367,cebu1242,ceb,language,PH,aust1307,,ceb,,,false
+ltz,4060,/workspaces/hack_research_2026/data/raw/wikipron/ltz_latn_broad.tsv,luxe1241,Moselle Franconian,Eurasia,49.6839,6.14931,luxe1241,ltz,language,BE;DE;FR;LU,indo1319,,ltz,,,false
+sga,3799,/workspaces/hack_research_2026/data/raw/wikipron/sga_latn_broad.tsv,oldi1245,Early Irish,Eurasia,53.0,-8.0,oldi1245,sga,language,IE,indo1319,,sga,500,900,false
+mnp,3685,/workspaces/hack_research_2026/data/raw/wikipron/mnp_hani_jianou_broad.tsv,minb1236,Min Bei Chinese,Eurasia,27.05,118.32,minb1236,mnp,language,CN,sino1245,,mnp,,,false
+gan,3623,/workspaces/hack_research_2026/data/raw/wikipron/gan_hani_nanchang_broad.tsv,ganc1239,Gan Chinese,Eurasia,27.9896,115.166,ganc1239,gan,language,CN,sino1245,,gan,,,false
+bod,3621,/workspaces/hack_research_2026/data/raw/wikipron/bod_tibt_broad.tsv,tibe1272,Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod,language,BT;CN;IN;NP,sino1245,,bod,,,false
+mon,3563,/workspaces/hack_research_2026/data/raw/wikipron/mon_cyrl_broad.tsv,mong1331,Mongolian,Eurasia,45.77047900000001,87.25413566666667,mong1331,mon,family,MN,mong1349,,mon,,,
+nob,3432,/workspaces/hack_research_2026/data/raw/wikipron/nob_latn_broad.tsv,norw1259,Norwegian Bokmål,Eurasia,61.112,8.886,norw1259,nob,dialect,NO,indo1319,norw1258,nob,,,
+tgk,3269,/workspaces/hack_research_2026/data/raw/wikipron/tgk_cyrl_broad.tsv,taji1245,Tajik,Eurasia,38.8213,68.5549,taji1245,tgk,language,AF;CN;KG;TJ;UZ,indo1319,,tgk,,,false
+asm,3223,/workspaces/hack_research_2026/data/raw/wikipron/asm_beng_broad.tsv,assa1263,Assamese,Eurasia,26.0876,91.2932,assa1263,asm,language,BD;BT;IN,indo1319,,asm,,,false
+ajp,3182,/workspaces/hack_research_2026/data/raw/wikipron/ajp_arab_broad.tsv,sout3123,South Levantine Arabic,Eurasia,31.5601,38.0837,sout3123,ajp,dialect,IL;JO;KW;PS;SA;SY,afro1255,nort3139,ajp,,,
+fao,3024,/workspaces/hack_research_2026/data/raw/wikipron/fao_latn_broad.tsv,faro1244,Faroese,Eurasia,62.0732,-6.88497,faro1244,fao,language,DK;FO,indo1319,,fao,,,false
+szl,2925,/workspaces/hack_research_2026/data/raw/wikipron/szl_latn_broad.tsv,sile1253,Silesian,Eurasia,50.9656,16.9491,sile1253,szl,language,PL,indo1319,,szl,,,false
+vot,2915,/workspaces/hack_research_2026/data/raw/wikipron/vot_latn_broad.tsv,voti1245,Votic,Eurasia,59.3802,28.6235,voti1245,vot,language,RU,ural1272,,vot,,,false
+est,2903,/workspaces/hack_research_2026/data/raw/wikipron/est_latn_broad.tsv,,,,,,,,,,,,,,,
+csb,2830,/workspaces/hack_research_2026/data/raw/wikipron/csb_latn_broad.tsv,kash1274,Kashubian,Eurasia,54.2996,18.6163,kash1274,csb,language,PL,indo1319,,csb,,,false
+uig,2674,/workspaces/hack_research_2026/data/raw/wikipron/uig_arab_broad.tsv,uigh1240,Uighur,Eurasia,43.88,87.38,uigh1240,uig,language,CN;IN;KG;KZ;MN;PK;UZ,turk1311,,uig,,,false
+acw,2640,/workspaces/hack_research_2026/data/raw/wikipron/acw_arab_broad.tsv,hija1235,Hijazi Arabic,Eurasia,22.8346,38.9237,hija1235,acw,language,SA;YE,afro1255,,acw,,,false
+shn,2607,/workspaces/hack_research_2026/data/raw/wikipron/shn_mymr_broad.tsv,shan1277,Shan,Eurasia,21.5995,98.0342,shan1277,shn,language,CN;MM;TH,taik1256,,shn,,,false
+yol,2546,/workspaces/hack_research_2026/data/raw/wikipron/yol_latn_broad.tsv,east2834,Irish Anglo-Norman,Eurasia,52.2496,-6.6488,east2834,yol,language,IE,indo1319,,yol,1788,1900,false
+liv,2516,/workspaces/hack_research_2026/data/raw/wikipron/liv_latn_broad.tsv,livv1244,Liv,Eurasia,57.566,22.0262,livv1244,liv,language,LV,ural1272,,liv,,2013,false
+dsb,2484,/workspaces/hack_research_2026/data/raw/wikipron/dsb_latn_broad.tsv,lowe1385,Lower Sorbian,Eurasia,51.6621,13.9407,lowe1385,dsb,language,DE,indo1319,,dsb,,,false
+wln,2480,/workspaces/hack_research_2026/data/raw/wikipron/wln_latn_broad.tsv,wall1255,Walloon,Eurasia,50.2235,5.14509,wall1255,wln,language,BE;FR;LU,indo1319,,wln,,,false
+phl,2240,/workspaces/hack_research_2026/data/raw/wikipron/phl_latn_broad.tsv,phal1254,Palula,Eurasia,35.5096,71.8421,phal1254,phl,language,PK,indo1319,,phl,,,false
+kmr,2193,/workspaces/hack_research_2026/data/raw/wikipron/kmr_latn_broad.tsv,nort2641,Northern Kurdish,Eurasia,37.0,43.0,nort2641,kmr,language,AM;AZ;IQ;IR;JO;KW;SY;TM;TR,indo1319,,kmr,,,false
+hau,2176,/workspaces/hack_research_2026/data/raw/wikipron/hau_latn_broad.tsv,haus1257,Hausa,Africa,11.1513,8.7804,haus1257,hau,language,BF;BJ;CM;NE;NG;TD,afro1255,,hau,,,false
+afr,2171,/workspaces/hack_research_2026/data/raw/wikipron/afr_latn_broad.tsv,afri1274,Afrikaans,Africa,-31.63272,20.46356,afri1274,afr,language,BW;MZ;NA;ZA;ZM;ZW,indo1319,,afr,,,false
+ary,2168,/workspaces/hack_research_2026/data/raw/wikipron/ary_arab_broad.tsv,moro1292,Moroccan Arabic,Africa,32.5,-7.5,moro1292,ary,language,DZ;EH;MA,afro1255,,ary,,,false
+haw,2152,/workspaces/hack_research_2026/data/raw/wikipron/haw_latn_broad.tsv,hawa1245,Hawaiian,Papunesia,19.6297,-155.43,hawa1245,haw,language,US,aust1307,,haw,,,false
+hrx,2108,/workspaces/hack_research_2026/data/raw/wikipron/hrx_latn_broad.tsv,riog1239,Hunsrik,South America,-29.3255,-51.7219,riog1239,hrx,language,BR,indo1319,,hrx,,,false
+luh,1933,/workspaces/hack_research_2026/data/raw/wikipron/luh_hani_leizhou_broad.tsv,leiz1236,Leizhou Chinese,Eurasia,20.693497,110.022914,leiz1236,luh,language,CN,sino1245,,luh,,,false
+got,1837,/workspaces/hack_research_2026/data/raw/wikipron/got_goth_broad.tsv,goth1244,Gothic,Eurasia,46.9304,29.9786,goth1244,got,language,UA,indo1319,,got,350,380,false
+bar,1780,/workspaces/hack_research_2026/data/raw/wikipron/bar_latn_broad.tsv,bava1246,Bavarian,Eurasia,47.9232,13.246,bava1246,bar,language,AT;CH;CZ;DE;IT;RO;SI,indo1319,,bar,,,false
+zul,1778,/workspaces/hack_research_2026/data/raw/wikipron/zul_latn_broad.tsv,zulu1248,Zulu,Africa,-28.9,30.2,zulu1248,zul,language,BW;LS;MZ;SZ;ZA,atla1278,,zul,,,false
+aar,1728,/workspaces/hack_research_2026/data/raw/wikipron/aar_latn_broad.tsv,afar1241,Afar,Africa,12.2281,41.8083,afar1241,aar,language,DJ;ER;ET,afro1255,,aar,,,false
+slr,1724,/workspaces/hack_research_2026/data/raw/wikipron/slr_latn_broad.tsv,sala1264,Salar,Eurasia,35.5457,102.819,sala1264,slr,language,CN,turk1311,,slr,,,false
+gmh,1724,/workspaces/hack_research_2026/data/raw/wikipron/gmh_latn_broad.tsv,midd1343,Middle High German,Eurasia,48.254,10.599,midd1343,gmh,language,DE,indo1319,,gmh,1050,1500,false
+kan,1713,/workspaces/hack_research_2026/data/raw/wikipron/kan_knda_broad.tsv,nucl1305,Kannada,Eurasia,13.5878,76.1198,nucl1305,kan,language,IN,drav1251,,kan,,,false
+hat,1695,/workspaces/hack_research_2026/data/raw/wikipron/hat_latn_broad.tsv,hait1244,Haitian,North America,18.795135,-72.136115,hait1244,hat,language,DO;HT,indo1319,,hat,,,false
+zha,1691,/workspaces/hack_research_2026/data/raw/wikipron/zha_latn_broad.tsv,nort3180,Northern Daic,Eurasia,23.232984237180798,107.5565617756559,nort3180,zha,family,CN,taik1256,,zha,,,
+nya,1624,/workspaces/hack_research_2026/data/raw/wikipron/nya_latn_broad.tsv,nyan1308,Nyanja,Africa,-14.8047,32.8108,nyan1308,nya,language,MW;MZ;SZ;TZ;ZM;ZW,atla1278,,nya,,,false
+orv,1612,/workspaces/hack_research_2026/data/raw/wikipron/orv_cyrl_broad.tsv,oldr1238,Old Russian,Eurasia,54.813,31.827,oldr1238,orv,language,RU,indo1319,,orv,,1113,false
+scn,1599,/workspaces/hack_research_2026/data/raw/wikipron/scn_latn_broad.tsv,sici1248,Sicilian,Eurasia,37.5735,14.0414,sici1248,scn,language,IT,indo1319,,scn,,,false
+pan,1586,/workspaces/hack_research_2026/data/raw/wikipron/pan_guru_broad.tsv,panj1256,Eastern Panjabi,Eurasia,30.0368,75.6702,panj1256,pan,language,BD;IN;PK,indo1319,,pan,,,false
+kal,1581,/workspaces/hack_research_2026/data/raw/wikipron/kal_latn_broad.tsv,kala1399,Kalaallisut,North America,69.3761,-52.864,kala1399,kal,language,DK;GL,eski1264,,kal,,,false
+div,1551,/workspaces/hack_research_2026/data/raw/wikipron/div_thaa_broad.tsv,dhiv1236,Dhivehi,Eurasia,1.928498,73.54433,dhiv1236,div,language,IN;MV,indo1319,,div,,,false
+kik,1420,/workspaces/hack_research_2026/data/raw/wikipron/kik_latn_broad.tsv,kiku1240,Kikuyu,Africa,-0.29005,36.719,kiku1240,kik,language,KE,atla1278,,kik,,,false
+pus,1414,/workspaces/hack_research_2026/data/raw/wikipron/pus_arab_broad.tsv,nucl1276,Nuclear Pashto,Eurasia,32.471766666666674,68.82763333333332,nucl1276,pus,family,PK,indo1319,,pus,,,
+sco,1338,/workspaces/hack_research_2026/data/raw/wikipron/sco_latn_broad.tsv,scot1243,Scots,Eurasia,55.886945,-3.710133,scot1243,sco,language,GB,indo1319,,sco,,,false
+nor,1331,/workspaces/hack_research_2026/data/raw/wikipron/nor_latn_broad.tsv,norw1258,Norwegian,Eurasia,59.92,10.71,norw1258,nor,language,FI;NO;RU;SE;SJ,indo1319,,nor,,,false
+arg,1320,/workspaces/hack_research_2026/data/raw/wikipron/arg_latn_broad.tsv,arag1245,Aragonese,Eurasia,42.4669,-0.00919,arag1245,arg,language,ES;FR,indo1319,,arg,,,false
+csp,1289,/workspaces/hack_research_2026/data/raw/wikipron/csp_hani_nanning_broad.tsv,sout3250,Southern Pinghua,Eurasia,23.011,108.093,sout3250,csp,language,CN,sino1245,,csp,,,false
+jav,1266,/workspaces/hack_research_2026/data/raw/wikipron/jav_java_broad.tsv,java1254,Javanese,Papunesia,-7.001,109.287,java1254,jav,language,ID;MY,aust1307,,jav,,,false
+fry,1246,/workspaces/hack_research_2026/data/raw/wikipron/fry_latn_broad.tsv,west2354,Western Frisian,Eurasia,53.143,5.86091,west2354,fry,language,NL,indo1319,,fry,,,false
+arc,1245,/workspaces/hack_research_2026/data/raw/wikipron/arc_hebr_broad.tsv,impe1235,Imperial Aramaic (700-300 BCE),Eurasia,33.905,42.185,impe1235,arc,language,IQ,afro1255,,arc,-700,-300,false
+hsb,1130,/workspaces/hack_research_2026/data/raw/wikipron/hsb_latn_broad.tsv,uppe1395,Upper Sorbian,Eurasia,51.2403,14.4098,uppe1395,hsb,language,DE,indo1319,,hsb,,,false
+lim,1128,/workspaces/hack_research_2026/data/raw/wikipron/lim_latn_broad.tsv,limb1263,Limburgan,Eurasia,51.015,5.87705,limb1263,lim,language,BE;DE;NL,indo1319,,lim,,,false
+mnw,1110,/workspaces/hack_research_2026/data/raw/wikipron/mnw_mymr_broad.tsv,monn1252,Mon,Eurasia,15.49394,98.122465,monn1252,mnw,language,MM;TH,aust1305,,mnw,,,false
+fro,1057,/workspaces/hack_research_2026/data/raw/wikipron/fro_latn_broad.tsv,oldf1239,Old French (842-ca. 1400),Eurasia,48.8,1.11,oldf1239,fro,language,FR,indo1319,,fro,842,1400,false
+ilo,1049,/workspaces/hack_research_2026/data/raw/wikipron/ilo_latn_broad.tsv,ilok1237,Iloko,Papunesia,15.9361,120.993,ilok1237,ilo,language,PH,aust1307,,ilo,,,false
+mri,1005,/workspaces/hack_research_2026/data/raw/wikipron/mri_latn_broad.tsv,maor1246,Maori,Papunesia,-38.2881,176.541,maor1246,mri,language,NZ,aust1307,,mri,,,false
+nav,995,/workspaces/hack_research_2026/data/raw/wikipron/nav_latn_broad.tsv,nava1243,Navajo,North America,36.33,-109.38,nava1243,nav,language,US,atha1245,,nav,,,false
+ckb,981,/workspaces/hack_research_2026/data/raw/wikipron/ckb_arab_broad.tsv,cent1972,Central Kurdish,Eurasia,35.6539,45.8077,cent1972,ckb,language,IQ;IR,indo1319,,ckb,,,false
+mah,960,/workspaces/hack_research_2026/data/raw/wikipron/mah_latn_broad.tsv,mars1254,Marshallese,Papunesia,8.72,167.73,mars1254,mah,language,MH,aust1307,,mah,,,false
+kaw,937,/workspaces/hack_research_2026/data/raw/wikipron/kaw_latn_broad.tsv,kawi1241,Kawi,Papunesia,-7.0,111.0,kawi1241,kaw,language,ID,aust1307,,kaw,900,1500,false
+pam,926,/workspaces/hack_research_2026/data/raw/wikipron/pam_latn_broad.tsv,pamp1243,Pampanga,Papunesia,14.9603,120.502,pamp1243,pam,language,PH,aust1307,,pam,,,false
+pms,921,/workspaces/hack_research_2026/data/raw/wikipron/pms_latn_broad.tsv,piem1238,Piemontese,Eurasia,45.4633,8.32366,piem1238,pms,language,AU;IT;US,indo1319,,pms,,,false
+kpv,918,/workspaces/hack_research_2026/data/raw/wikipron/kpv_cyrl_broad.tsv,komi1268,Komi-Zyrian,Eurasia,64.0527,54.946,komi1268,kpv,language,RU,ural1272,,kpv,,,false
+kir,888,/workspaces/hack_research_2026/data/raw/wikipron/kir_cyrl_broad.tsv,kirg1245,Kirghiz,Eurasia,42.0,74.0,kirg1245,kir,language,AF;CN;KG;KZ;TJ;UZ,turk1311,,kir,,,false
+nci,886,/workspaces/hack_research_2026/data/raw/wikipron/nci_latn_broad.tsv,clas1250,Classical Nahuatl,North America,19.72,-96.97,clas1250,nci,language,MX,utoa1244,,nci,1500,1600,false
+cop,881,/workspaces/hack_research_2026/data/raw/wikipron/cop_copt_broad.tsv,copt1239,Coptic,Africa,29.472,31.2053,copt1239,cop,language,EG,afro1255,,cop,300,1600,false
+bre,874,/workspaces/hack_research_2026/data/raw/wikipron/bre_latn_broad.tsv,bret1244,Breton,Eurasia,48.2452,-3.78934,bret1244,bre,language,FR,indo1319,,bre,,,false
+sjs,865,/workspaces/hack_research_2026/data/raw/wikipron/sjs_latn_broad.tsv,senh1238,Senhaja De Srair,Africa,34.9992,-4.51293,senh1238,sjs,language,MA,afro1255,,sjs,,,false
+srn,849,/workspaces/hack_research_2026/data/raw/wikipron/srn_latn_broad.tsv,sran1240,Sranan Tongo,South America,5.83,-55.33,sran1240,srn,language,NL;SR,indo1319,,srn,,,false
+mak,834,/workspaces/hack_research_2026/data/raw/wikipron/mak_latn_broad.tsv,maka1311,Makasar,Papunesia,-5.65551,119.838,maka1311,mak,language,ID,aust1307,,mak,,,false
+lij,820,/workspaces/hack_research_2026/data/raw/wikipron/lij_latn_broad.tsv,ligu1248,Ligurian,Eurasia,44.0816,7.90522,ligu1248,lij,language,FR;IT;MC,indo1319,,lij,,,false
+stq,818,/workspaces/hack_research_2026/data/raw/wikipron/stq_latn_broad.tsv,sate1242,Ems-Weser Frisian,Eurasia,53.117,7.721,sate1242,stq,language,DE,indo1319,,stq,,,false
+arz,800,/workspaces/hack_research_2026/data/raw/wikipron/arz_arab_broad.tsv,egyp1253,Egyptian Arabic,Africa;Eurasia,31.0,31.0,egyp1253,arz,language,EG;IL;LY,afro1255,,arz,,,false
+mqs,791,/workspaces/hack_research_2026/data/raw/wikipron/mqs_latn_broad.tsv,west2600,West Makian,Papunesia,0.45332,127.63,west2600,mqs,language,ID,nort2923,,mqs,,,false
+glv,785,/workspaces/hack_research_2026/data/raw/wikipron/glv_latn_broad.tsv,manx1243,Manx,Eurasia,54.2604,-4.45437,manx1243,glv,language,GB;IM,indo1319,,glv,1780,1974,false
+kaz,774,/workspaces/hack_research_2026/data/raw/wikipron/kaz_cyrl_broad.tsv,kaza1248,Kazakh,Eurasia,51.17,71.454,kaza1248,kaz,language,AF;CN;IR;KG;KZ;MN;RU;TJ;TM;UZ,turk1311,,kaz,,,false
+afb,763,/workspaces/hack_research_2026/data/raw/wikipron/afb_arab_broad.tsv,gulf1241,Gulf Arabic,Eurasia,30.17,47.5,gulf1241,afb,language,AE;BH;IQ;IR;KW;OM;QA;SA;YE,afro1255,,afb,,,false
+sjd,761,/workspaces/hack_research_2026/data/raw/wikipron/sjd_cyrl_broad.tsv,kild1236,Kildin Saami,Eurasia,68.2158,35.8348,kild1236,sjd,language,RU,ural1272,,sjd,,,false
+kas,751,/workspaces/hack_research_2026/data/raw/wikipron/kas_arab_broad.tsv,kash1277,Kashmiri,Eurasia,34.166825,74.330455,kash1277,kas,language,IN;PK,indo1319,,kas,,,false
+oci,748,/workspaces/hack_research_2026/data/raw/wikipron/oci_latn_broad.tsv,occi1239,Occitan,Eurasia,44.1415,6.82979,occi1239,oci,language,AD;ES;FR;IT;MC,indo1319,,oci,,,false
+srd,722,/workspaces/hack_research_2026/data/raw/wikipron/srd_latn_broad.tsv,,,,,,,,,,,,,,,
+tzm,690,/workspaces/hack_research_2026/data/raw/wikipron/tzm_tfng_broad.tsv,cent2194,Central Moroccan Berber,Africa,32.7415,-2.40872,cent2194,tzm,language,DZ;MA,afro1255,,tzm,,,false
+guw,681,/workspaces/hack_research_2026/data/raw/wikipron/guw_latn_broad.tsv,gunn1250,Gun,Africa,6.48529,2.76767,gunn1250,guw,language,BJ;NG,atla1278,,guw,,,false
+osp,681,/workspaces/hack_research_2026/data/raw/wikipron/osp_latn_broad.tsv,olds1249,Old Spanish,Eurasia,41.5,-3.9,olds1249,osp,language,ES,indo1319,,osp,1000,1500,false
+akk,672,/workspaces/hack_research_2026/data/raw/wikipron/akk_latn_broad.tsv,akka1240,Akkadian,Eurasia,33.1,44.1,akka1240,akk,language,IQ,afro1255,,akk,,-2350,false
+fax,655,/workspaces/hack_research_2026/data/raw/wikipron/fax_latn_broad.tsv,fala1241,Fala,Eurasia,40.1651,-6.91452,fala1241,fax,language,ES;PT,indo1319,,fax,,,false
+cor,648,/workspaces/hack_research_2026/data/raw/wikipron/cor_latn_broad.tsv,corn1251,Cornish,Eurasia,50.5233,-4.18619,corn1251,cor,language,GB,indo1319,,cor,1600,1777,false
+krl,645,/workspaces/hack_research_2026/data/raw/wikipron/krl_latn_broad.tsv,kare1335,Karelian,Eurasia,65.1691,30.8655,kare1335,krl,language,FI;RU,ural1272,,krl,,,false
+urk,629,/workspaces/hack_research_2026/data/raw/wikipron/urk_thai_broad.tsv,urak1238,Urak Lawoi',Eurasia,7.5258,99.0768,urak1238,urk,language,MY;TH,aust1307,,urk,,,false
+niv,627,/workspaces/hack_research_2026/data/raw/wikipron/niv_cyrl_broad.tsv,gily1242,Amur Nivkh,Eurasia,52.59,140.681,gily1242,niv,language,RU,nivk1234,,niv,,,false
+apc,618,/workspaces/hack_research_2026/data/raw/wikipron/apc_arab_broad.tsv,nort3139,Levantine Arabic,Eurasia,34.1709,36.0468,nort3139,apc,language,IL;LB;SY;TR,afro1255,,apc,,,false
+lmo,595,/workspaces/hack_research_2026/data/raw/wikipron/lmo_latn_broad.tsv,lomb1257,Lombard,Eurasia,45.8817,9.39509,lomb1257,lmo,language,CH;IT,indo1319,,lmo,,,false
+iba,584,/workspaces/hack_research_2026/data/raw/wikipron/iba_latn_broad.tsv,iban1264,Iban,Papunesia,2.09041,112.934,iban1264,iba,language,BN;ID;MY,aust1307,,iba,,,false
+okm,573,/workspaces/hack_research_2026/data/raw/wikipron/okm_hang_broad.tsv,,,,,,,,,,,,,,,
+khb,530,/workspaces/hack_research_2026/data/raw/wikipron/khb_talu_broad.tsv,luuu1242,Lü,Eurasia,21.0321,101.282,luuu1242,khb,language,CN;LA;MM;TH;VN,taik1256,,khb,,,false
+kld,516,/workspaces/hack_research_2026/data/raw/wikipron/kld_latn_broad.tsv,gami1243,Yuwaalaraay-Gamilaraay,Australia,-29.9037,149.543,gami1243,kld,language,AU,pama1250,,kld,,,false
+aze,513,/workspaces/hack_research_2026/data/raw/wikipron/aze_latn_broad.tsv,,,,,,,,,,,,,,,
+gsw,511,/workspaces/hack_research_2026/data/raw/wikipron/gsw_latn_broad.tsv,swis1247,Central Alemannic,Eurasia,47.0516,8.46419,swis1247,gsw,language,AT;CH;DE;FR;IT;LI,indo1319,,gsw,,,false
+pdc,510,/workspaces/hack_research_2026/data/raw/wikipron/pdc_latn_broad.tsv,penn1240,Pennsylvania German,North America,40.030507,-76.3211,penn1240,pdc,language,CA;US,indo1319,,pdc,,,false
+shi,509,/workspaces/hack_research_2026/data/raw/wikipron/shi_latn_broad.tsv,tach1250,Tachelhit,Africa,29.7854,-7.77879,tach1250,shi,language,DZ;MA,afro1255,,shi,,,false
+tyv,508,/workspaces/hack_research_2026/data/raw/wikipron/tyv_cyrl_broad.tsv,tuvi1240,Tuvinian,Eurasia,51.7,94.36667,tuvi1240,tyv,language,CN;MN;RU,turk1311,,tyv,,,false
+lit,507,/workspaces/hack_research_2026/data/raw/wikipron/lit_latn_broad.tsv,lith1251,Lithuanian,Eurasia,55.1429,23.9601,lith1251,lit,language,BY;LT;LV;PL;RU,indo1319,,lit,,,false
+mga,501,/workspaces/hack_research_2026/data/raw/wikipron/mga_latn_broad.tsv,midd1360,Middle Irish (10-12th century),Eurasia,53.0,-8.0,midd1360,mga,dialect,,indo1319,oldi1245,mga,,,
+cos,492,/workspaces/hack_research_2026/data/raw/wikipron/cos_latn_broad.tsv,cors1241,Corsican,Eurasia,41.7,9.25537,cors1241,cos,language,FR;IT,indo1319,,cos,,,false
+nds,492,/workspaces/hack_research_2026/data/raw/wikipron/nds_latn_broad.tsv,nort2627,Eastern Low German,Eurasia,53.115373,12.391439,nort2627,nds,language,DE,indo1319,,nds,,,false
+mww,492,/workspaces/hack_research_2026/data/raw/wikipron/mww_latn_broad.tsv,hmon1333,Hmong Daw,Eurasia,21.5461,103.164,hmon1333,mww,language,CN;LA;TH;VN,hmon1336,,mww,,,false
+ina,484,/workspaces/hack_research_2026/data/raw/wikipron/ina_latn_broad.tsv,inte1239,Interlingua (International Auxiliary Language Association),Eurasia,48.203,2.615,inte1239,ina,language,FR,arti1236,,ina,,,false
+che,480,/workspaces/hack_research_2026/data/raw/wikipron/che_cyrl_broad.tsv,chec1245,Chechen,Eurasia,43.5,45.5,chec1245,che,language,GE;KZ;RU,nakh1245,,che,,,false
+amh,478,/workspaces/hack_research_2026/data/raw/wikipron/amh_ethi_broad.tsv,amha1245,Amharic,Africa,11.708182,39.543456,amha1245,amh,language,DJ;ET,afro1255,,amh,,,false
+hil,473,/workspaces/hack_research_2026/data/raw/wikipron/hil_latn_broad.tsv,hili1240,Hiligaynon,Papunesia,10.4018,122.974,hili1240,hil,language,PH,aust1307,,hil,,,false
+nup,453,/workspaces/hack_research_2026/data/raw/wikipron/nup_latn_broad.tsv,nupe1254,Nupe-Nupe-Tako,Africa,9.18404,5.40031,nupe1254,nup,language,NG,atla1278,,nup,,,false
+tuk,452,/workspaces/hack_research_2026/data/raw/wikipron/tuk_latn_broad.tsv,turk1304,Turkmen,Eurasia,37.08719,59.17574,turk1304,tuk,language,AF;IQ;IR;PK;TJ;TM;TR;UZ,turk1311,,tuk,,,false
+vol,446,/workspaces/hack_research_2026/data/raw/wikipron/vol_latn_broad.tsv,vola1234,Volapük,Eurasia,,,vola1234,vol,language,DE,arti1236,,vol,,,false
+wlm,435,/workspaces/hack_research_2026/data/raw/wikipron/wlm_latn_broad.tsv,midd1363,Middle Welsh,Eurasia,52.582,-4.089,midd1363,wlm,dialect,,indo1319,oldw1239,wlm,,,
+bbl,421,/workspaces/hack_research_2026/data/raw/wikipron/bbl_geor_broad.tsv,bats1242,Bats,Eurasia,42.1806,45.344,bats1242,bbl,language,GE,nakh1245,,bbl,,,false
+jam,415,/workspaces/hack_research_2026/data/raw/wikipron/jam_latn_broad.tsv,jama1262,Jamaican Creole English,North America,18.13,-77.2612,jama1262,jam,language,JM;PA,indo1319,,jam,,,false
+syl,398,/workspaces/hack_research_2026/data/raw/wikipron/syl_sylo_broad.tsv,sylh1242,Sylheti,Eurasia,24.83724,92.25347,sylh1242,syl,language,BD;IN;MM,indo1319,,syl,,,false
+cic,394,/workspaces/hack_research_2026/data/raw/wikipron/cic_latn_broad.tsv,chic1270,Chickasaw,North America,34.0,-88.0,chic1270,cic,language,US,musk1252,,cic,,,false
+sin,393,/workspaces/hack_research_2026/data/raw/wikipron/sin_sinh_broad.tsv,sinh1246,Sinhala,Eurasia,8.0,81.0,sinh1246,sin,language,LK,indo1319,,sin,,,false
+war,383,/workspaces/hack_research_2026/data/raw/wikipron/war_latn_broad.tsv,wara1300,Waray (Philippines),Papunesia,11.4911,125.012,wara1300,war,language,PH,aust1307,,war,,,false
+tpw,375,/workspaces/hack_research_2026/data/raw/wikipron/tpw_latn_broad.tsv,tupi1274,Lingua Geral Paulista,South America,-23.95,-46.38,tupi1274,tpw,dialect,BR,tupi1275,tupi1273,tpw,1600,1868,
+swa,370,/workspaces/hack_research_2026/data/raw/wikipron/swa_latn_broad.tsv,,,,,,,,,,,,,,,
+kxd,365,/workspaces/hack_research_2026/data/raw/wikipron/kxd_latn_broad.tsv,brun1242,Brunei,Papunesia,4.456045,114.429505,brun1242,kxd,language,BN;MY,aust1307,,kxd,,,false
+lzz,363,/workspaces/hack_research_2026/data/raw/wikipron/lzz_geor_broad.tsv,lazz1240,Laz,Eurasia,41.5004,41.9096,lazz1240,lzz,language,GE;TR,kart1248,,lzz,,,false
+snd,362,/workspaces/hack_research_2026/data/raw/wikipron/snd_arab_broad.tsv,sind1272,Sindhi,Eurasia,26.0,69.0,sind1272,snd,language,IN;PK,indo1319,,snd,,,false
+cnk,350,/workspaces/hack_research_2026/data/raw/wikipron/cnk_latn_broad.tsv,khum1248,Khumi Chin,Eurasia,22.87125,92.9894633333,khum1248,cnk,language,BD;IN;MM,sino1245,,cnk,,,false
+skr,349,/workspaces/hack_research_2026/data/raw/wikipron/skr_arab_broad.tsv,sera1259,Saraiki,Eurasia,29.5534,71.906,sera1259,skr,language,IN;PK,indo1319,,skr,,,false
+gug,348,/workspaces/hack_research_2026/data/raw/wikipron/gug_latn_broad.tsv,para1311,Paraguayan Guaraní,South America,-25.60551,-57.08816,para1311,gug,language,AR;PY,tupi1275,,gug,,,false
+uzb,345,/workspaces/hack_research_2026/data/raw/wikipron/uzb_latn_broad.tsv,uzbe1247,Uzbek,Eurasia,38.74795,64.95085,uzbe1247,uzb,family,UZ,turk1311,,uzb,,,
+sdc,344,/workspaces/hack_research_2026/data/raw/wikipron/sdc_latn_broad.tsv,sass1235,Sassarese Sardinian,Eurasia,40.748,8.39332,sass1235,sdc,language,IT,indo1319,,sdc,,,false
+xal,339,/workspaces/hack_research_2026/data/raw/wikipron/xal_cyrl_broad.tsv,kalm1243,Oirad-Kalmyk-Darkhat,Eurasia,46.566667,45.316667,kalm1243,xal,language,CN;KZ;MN;RU,mong1349,,xal,,,false
+hts,335,/workspaces/hack_research_2026/data/raw/wikipron/hts_latn_broad.tsv,hadz1240,Hadza,Africa,-3.83115,35.0458,hadz1240,hts,language,TZ,,,hts,,,true
+mdf,334,/workspaces/hack_research_2026/data/raw/wikipron/mdf_cyrl_broad.tsv,moks1248,Moksha,Eurasia,54.1855,42.6728,moks1248,mdf,language,RU,ural1272,,mdf,,,false
+ngh,325,/workspaces/hack_research_2026/data/raw/wikipron/ngh_latn_broad.tsv,nngg1234,N||ng,Africa,-29.70543,19.08408,nngg1234,ngh,language,ZA,tuuu1241,,ngh,,,false
+pox,321,/workspaces/hack_research_2026/data/raw/wikipron/pox_latn_broad.tsv,pola1255,Polabian,Eurasia,52.0,14.0,pola1255,pox,language,DE,indo1319,,pox,1500,1756,false
+non,318,/workspaces/hack_research_2026/data/raw/wikipron/non_latn_broad.tsv,oldn1244,Old Norse,Eurasia,63.42,10.38,oldn1244,non,language,NO,indo1319,,non,800,1150,false
+gul,304,/workspaces/hack_research_2026/data/raw/wikipron/gul_latn_broad.tsv,gull1241,Sea Island Creole English,North America,33.6632,-79.6036,gull1241,gul,language,US,indo1319,,gul,,,false
+ban,300,/workspaces/hack_research_2026/data/raw/wikipron/ban_latn_broad.tsv,bali1278,Balinese,Papunesia,-8.35714,115.075,bali1278,ban,language,ID,aust1307,,ban,,,false
+inh,300,/workspaces/hack_research_2026/data/raw/wikipron/inh_cyrl_broad.tsv,ingu1240,Ingush,Eurasia,43.11,45.03,ingu1240,inh,language,GE;RU,nakh1245,,inh,,,false
+sid,298,/workspaces/hack_research_2026/data/raw/wikipron/sid_latn_broad.tsv,sida1246,Sidamo,Africa,6.74176,38.3729,sida1246,sid,language,ET,afro1255,,sid,,,false
+tft,297,/workspaces/hack_research_2026/data/raw/wikipron/tft_latn_broad.tsv,tern1247,Ternate,Papunesia,0.80562,127.333,tern1247,tft,language,ID,nort2923,,tft,,,false
+dng,297,/workspaces/hack_research_2026/data/raw/wikipron/dng_cyrl_broad.tsv,dung1253,Dungan,Eurasia,42.7292,76.8382,dung1253,dng,language,KG;KZ;TJ;TM;UZ,sino1245,,dng,,,false
+ppl,283,/workspaces/hack_research_2026/data/raw/wikipron/ppl_latn_broad.tsv,pipi1250,Pipil,North America,13.8931,-89.443,pipi1250,ppl,language,SV,utoa1244,,ppl,,,false
+olo,278,/workspaces/hack_research_2026/data/raw/wikipron/olo_latn_broad.tsv,livv1243,Livvi,Eurasia,61.6565,29.0726,livv1243,olo,language,FI;RU,ural1272,,olo,,,false
+osx,273,/workspaces/hack_research_2026/data/raw/wikipron/osx_latn_broad.tsv,olds1250,Old Saxon,Eurasia,52.37,9.72,olds1250,osx,language,DE,indo1319,,osx,500,1000,false
+ace,272,/workspaces/hack_research_2026/data/raw/wikipron/ace_latn_broad.tsv,achi1257,Acehnese,Eurasia;Papunesia,3.90757,96.6032,achi1257,ace,language,ID,aust1307,,ace,,,false
+rgn,267,/workspaces/hack_research_2026/data/raw/wikipron/rgn_latn_broad.tsv,roma1328,Romagnol,Eurasia,44.2349,11.7189,roma1328,rgn,language,IT;SM,indo1319,,rgn,,,false
+lou,262,/workspaces/hack_research_2026/data/raw/wikipron/lou_latn_broad.tsv,loui1240,Louisiana Creole French,North America,30.0412,-90.7475,loui1240,lou,language,US,indo1319,,lou,,,false
+fpe,261,/workspaces/hack_research_2026/data/raw/wikipron/fpe_latn_broad.tsv,fern1234,Pichi,Africa,3.74,8.78,fern1234,fpe,language,GQ,indo1319,,fpe,,,false
+lwl,253,/workspaces/hack_research_2026/data/raw/wikipron/lwl_thai_broad.tsv,east2330,Eastern Lawa,Eurasia,19.0136,98.7613,east2330,lwl,language,TH,aust1305,,lwl,,,false
+ewe,250,/workspaces/hack_research_2026/data/raw/wikipron/ewe_latn_broad.tsv,ewee1241,Ewe,Africa,6.46061,0.814975,ewee1241,ewe,language,GH;TG,atla1278,,ewe,,,false
+dzo,243,/workspaces/hack_research_2026/data/raw/wikipron/dzo_tibt_broad.tsv,dzon1239,Dzongkha,Eurasia,27.410786,89.581604,dzon1239,dzo,language,BT;CN;IN;NP,sino1245,,dzo,,,false
+sah,240,/workspaces/hack_research_2026/data/raw/wikipron/sah_cyrl_broad.tsv,yaku1245,Sakha,Eurasia,61.69744,133.98031,yaku1245,sah,language,RU,turk1311,,sah,,,false
+cho,235,/workspaces/hack_research_2026/data/raw/wikipron/cho_latn_broad.tsv,choc1276,Choctaw,North America,32.25,-88.5,choc1276,cho,language,US,musk1252,,cho,,,false
+nrf,234,/workspaces/hack_research_2026/data/raw/wikipron/nrf_latn_broad.tsv,jerr1238,Jerriais,Eurasia,49.2123,-2.1325,jerr1238,nrf,dialect,GB;JE,indo1319,stan1290,nrf,,,
+mfe,233,/workspaces/hack_research_2026/data/raw/wikipron/mfe_latn_broad.tsv,mori1278,Morisyen,Africa,-20.2613,57.5517,mori1278,mfe,language,MU,indo1319,,mfe,,,false
+ksw,233,/workspaces/hack_research_2026/data/raw/wikipron/ksw_mymr_broad.tsv,sgaw1245,S'gaw Karen,Eurasia,17.9872,97.7126,sgaw1245,ksw,language,MM;TH,sino1245,,ksw,,,false
+tru,232,/workspaces/hack_research_2026/data/raw/wikipron/tru_syrc_broad.tsv,turo1239,Turoyo,Eurasia,37.2275,42.1451,turo1239,tru,language,IQ;LB;SY;TR,afro1255,,tru,,,false
+nap,231,/workspaces/hack_research_2026/data/raw/wikipron/nap_latn_broad.tsv,neap1235,Continental Southern Italian,Eurasia,39.2288,16.4225,neap1235,nap,language,IT,indo1319,,nap,,,false
+koi,229,/workspaces/hack_research_2026/data/raw/wikipron/koi_cyrl_broad.tsv,komi1269,Komi-Permyak,Eurasia,59.6602,54.7959,komi1269,koi,language,RU,ural1272,,koi,,,false
+pag,229,/workspaces/hack_research_2026/data/raw/wikipron/pag_latn_broad.tsv,pang1290,Pangasinan,Papunesia,15.9377,120.365,pang1290,pag,language,PH,aust1307,,pag,,,false
+dum,222,/workspaces/hack_research_2026/data/raw/wikipron/dum_latn_broad.tsv,midd1321,Middle Dutch,Eurasia,51.656,5.34,midd1321,dum,language,NL,indo1319,,dum,1100,1500,false
+ota,209,/workspaces/hack_research_2026/data/raw/wikipron/ota_arab_broad.tsv,otto1234,Ottoman Turkish,Eurasia,39.8667,32.8667,otto1234,ota,dialect,,turk1311,nucl1301,ota,,,
+bak,208,/workspaces/hack_research_2026/data/raw/wikipron/bak_cyrl_broad.tsv,bash1264,Bashkir,Eurasia,53.59671,56.55937,bash1264,bak,language,KZ;RU;UA,turk1311,,bak,,,false
+gwc,208,/workspaces/hack_research_2026/data/raw/wikipron/gwc_arab_broad.tsv,kala1373,Gawri,Eurasia,35.5303,72.5738,kala1373,gwc,language,PK,indo1319,,gwc,,,false
+ett,208,/workspaces/hack_research_2026/data/raw/wikipron/ett_ital_broad.tsv,etru1241,Etruscan,Eurasia,41.9,12.4833,etru1241,ett,language,IT,,,ett,,-690,true
+abk,206,/workspaces/hack_research_2026/data/raw/wikipron/abk_cyrl_broad.tsv,abkh1244,Abkhaz,Eurasia,43.056218,41.159115,abkh1244,abk,language,GE;RU;TR,abkh1242,,abk,,,false
+mdh,205,/workspaces/hack_research_2026/data/raw/wikipron/mdh_latn_broad.tsv,magu1243,Maguindanao,Papunesia,6.9453,124.509,magu1243,mdh,language,PH,aust1307,,mdh,,,false
+mic,203,/workspaces/hack_research_2026/data/raw/wikipron/mic_latn_broad.tsv,mikm1235,Mi'kmaq,North America,46.0,-64.0,mikm1235,mic,language,CA;US,algi1248,,mic,,,false
+goh,199,/workspaces/hack_research_2026/data/raw/wikipron/goh_latn_broad.tsv,oldh1241,Old High German (ca. 750-1050),Eurasia,52.0,10.0,oldh1241,goh,language,DE,indo1319,,goh,750,1050,false
+bdq,198,/workspaces/hack_research_2026/data/raw/wikipron/bdq_latn_broad.tsv,bahn1262,Bahnar,Eurasia,14.0476,108.471,bahn1262,bdq,language,VN,aust1305,,bdq,,,false
+rom,195,/workspaces/hack_research_2026/data/raw/wikipron/rom_latn_broad.tsv,roma1329,Romani,Eurasia,48.71264771043614,14.802397418316678,roma1329,rom,family,RO,indo1319,,rom,,,
+mtq,194,/workspaces/hack_research_2026/data/raw/wikipron/mtq_latn_broad.tsv,muon1246,Muong,Eurasia,20.7374,105.186,muon1246,mtq,language,VN,aust1305,,mtq,,,false
+bbn,194,/workspaces/hack_research_2026/data/raw/wikipron/bbn_latn_broad.tsv,unea1237,Uneapa,Papunesia,-4.89383,149.141,unea1237,bbn,language,PG,aust1307,,bbn,,,false
+mlg,192,/workspaces/hack_research_2026/data/raw/wikipron/mlg_latn_broad.tsv,,,,,,,,,,,,,,,
+nhn,189,/workspaces/hack_research_2026/data/raw/wikipron/nhn_latn_broad.tsv,cent2132,Tlaxcala-Puebla-Central Nahuatl,North America,19.1248,-98.3002,cent2132,nhn,language,MX,utoa1244,,nhn,,,false
+chr,183,/workspaces/hack_research_2026/data/raw/wikipron/chr_cher_broad.tsv,cher1273,Cherokee,North America,35.4664,-83.163,cher1273,chr,language,US,iroq1247,,chr,,,false
+sia,181,/workspaces/hack_research_2026/data/raw/wikipron/sia_cyrl_broad.tsv,akka1237,Akkala Saami,Eurasia,67.8625,32.4046,akka1237,sia,language,RU,ural1272,,sia,,2003,false
+aot,181,/workspaces/hack_research_2026/data/raw/wikipron/aot_latn_broad.tsv,aton1241,Atong (India),Eurasia,25.346508,90.658722,aton1241,aot,language,BD;IN,sino1245,,aot,,,false
+dlm,180,/workspaces/hack_research_2026/data/raw/wikipron/dlm_latn_broad.tsv,dalm1243,Dalmatian,Eurasia,42.7095,18.0238,dalm1243,dlm,language,HR,indo1319,,dlm,1300,1898,false
+ofs,177,/workspaces/hack_research_2026/data/raw/wikipron/ofs_latn_broad.tsv,oldf1241,Old Frisian,Eurasia,53.35,6.8,oldf1241,ofs,language,NL,indo1319,,ofs,,1200,false
+cat,176,/workspaces/hack_research_2026/data/raw/wikipron/cat_latn_broad.tsv,stan1289,Catalan,Eurasia,41.453,1.569,stan1289,cat,language,AD;ES;FR;IT,indo1319,,cat,,,false
+crx,175,/workspaces/hack_research_2026/data/raw/wikipron/crx_cans_broad.tsv,carr1249,Central Carrier,North America,54.3768,-124.328,carr1249,crx,language,CA,atha1245,,crx,,,false
+gml,175,/workspaces/hack_research_2026/data/raw/wikipron/gml_latn_broad.tsv,midd1318,Middle Low German,Eurasia,53.14,9.67,midd1318,gml,language,DE,indo1319,,gml,1200,1500,false
+ton,175,/workspaces/hack_research_2026/data/raw/wikipron/ton_latn_broad.tsv,tong1325,Tonga (Tonga Islands),Papunesia,-21.17,-175.25,tong1325,ton,language,TO,aust1307,,ton,,,false
+kok,173,/workspaces/hack_research_2026/data/raw/wikipron/kok_deva_broad.tsv,,,,,,,,,,,,,,,
+sce,169,/workspaces/hack_research_2026/data/raw/wikipron/sce_latn_broad.tsv,dong1285,Dongxiang,Eurasia,35.66354,103.38952,dong1285,sce,language,CN,mong1349,,sce,,,false
+ayl,166,/workspaces/hack_research_2026/data/raw/wikipron/ayl_arab_broad.tsv,liby1240,Libyan Arabic,Africa,22.0032,15.0014,liby1240,ayl,language,EG;LY;NE,afro1255,,ayl,,,false
+yrl,156,/workspaces/hack_research_2026/data/raw/wikipron/yrl_latn_broad.tsv,nhen1239,Nhengatu,South America,1.04503,-66.9646,nhen1239,yrl,language,BR;CO;VE,tupi1275,,yrl,,,false
+klj,155,/workspaces/hack_research_2026/data/raw/wikipron/klj_latn_broad.tsv,turk1303,Khalaj Turkic,Eurasia,34.42237,50.32223,turk1303,klj,language,IR,turk1311,,klj,,,false
+wbk,154,/workspaces/hack_research_2026/data/raw/wikipron/wbk_latn_broad.tsv,waig1243,Nuristani Kalasha,Eurasia,35.191171,70.993533,waig1243,wbk,language,AF,indo1319,,wbk,,,false
+pcc,153,/workspaces/hack_research_2026/data/raw/wikipron/pcc_latn_broad.tsv,bouy1240,Bouyei,Eurasia,24.8484,106.187,bouy1240,pcc,language,CN;VN,taik1256,,pcc,,,false
+evn,153,/workspaces/hack_research_2026/data/raw/wikipron/evn_cyrl_broad.tsv,even1259,Evenki,Eurasia,61.972,94.689,even1259,evn,language,CN;MN;RU,tung1282,,evn,,,false
+wiy,151,/workspaces/hack_research_2026/data/raw/wikipron/wiy_latn_broad.tsv,wiyo1248,Wiyot,North America,39.2492,-122.952,wiyo1248,wiy,language,US,algi1248,,wiy,,1962,false
+cbn,151,/workspaces/hack_research_2026/data/raw/wikipron/cbn_thai_broad.tsv,nyah1250,Nyahkur,Eurasia,15.8909,101.515,nyah1250,cbn,language,TH,aust1305,,cbn,,,false
+pqm,151,/workspaces/hack_research_2026/data/raw/wikipron/pqm_latn_broad.tsv,male1292,Malecite-Passamaquoddy,North America,45.494475,-67.40805,male1292,pqm,language,CA;US,algi1248,,pqm,,,false
+wau,146,/workspaces/hack_research_2026/data/raw/wikipron/wau_latn_broad.tsv,waur1244,Waurá,South America,-13.296,-53.6971,waur1244,wau,language,BR,araw1281,,wau,,,false
+nhx,146,/workspaces/hack_research_2026/data/raw/wikipron/nhx_latn_broad.tsv,isth1242,Isthmus-Mecayapan Nahuatl,North America,18.2,-94.7547,isth1242,nhx,language,MX,utoa1244,,nhx,,,false
+lad,145,/workspaces/hack_research_2026/data/raw/wikipron/lad_latn_broad.tsv,ladi1251,Ladino,Eurasia,41.205,28.6632,ladi1251,lad,language,AL;BA;BG;DZ;GR;HR;IL;MA;MK;PR;RO;RS;TR;US,indo1319,,lad,,,false
+vec,141,/workspaces/hack_research_2026/data/raw/wikipron/vec_latn_broad.tsv,vene1258,Venetian,Eurasia,45.503581,12.214167,vene1258,vec,language,BR;HR;IT;MX;SI,indo1319,,vec,,,false
+bua,140,/workspaces/hack_research_2026/data/raw/wikipron/bua_cyrl_broad.tsv,buri1258,Buriat,Eurasia,49.46040333333334,110.7849,buri1258,bua,family,RU,mong1349,,bua,,,
+lut,140,/workspaces/hack_research_2026/data/raw/wikipron/lut_latn_broad.tsv,lush1252,Northern Lushootseed,North America,48.42,-122.529,lush1252,lut,language,US,sali1255,,lut,,2008,false
+srs,137,/workspaces/hack_research_2026/data/raw/wikipron/srs_latn_broad.tsv,sars1236,Sarsi,North America,50.8822,-114.301,sars1236,srs,language,CA,atha1245,,srs,,,false
+bjb,136,/workspaces/hack_research_2026/data/raw/wikipron/bjb_latn_broad.tsv,bang1339,Banggarla,Australia,-33.3036,136.079,bang1339,bjb,language,AU,pama1250,,bjb,,1965,false
+ybi,136,/workspaces/hack_research_2026/data/raw/wikipron/ybi_deva_broad.tsv,yamp1242,Yamphu,Eurasia,27.6322,87.0441,yamp1242,ybi,language,NP,sino1245,,ybi,,,false
+oji,136,/workspaces/hack_research_2026/data/raw/wikipron/oji_latn_broad.tsv,,,,,,,,,,,,,,,
+twf,135,/workspaces/hack_research_2026/data/raw/wikipron/twf_latn_broad.tsv,nort1550,Taos Northern Tiwa,North America,36.4277,-105.604,nort1550,twf,language,US,kiow1265,,twf,,,false
+ktz,135,/workspaces/hack_research_2026/data/raw/wikipron/ktz_latn_broad.tsv,juho1239,South-Eastern Ju,Africa,-19.688,20.7673,juho1239,ktz,language,BW;NA,kxaa1236,,ktz,,,false
+syc,133,/workspaces/hack_research_2026/data/raw/wikipron/syc_syrc_broad.tsv,clas1252,Classical Syriac,Eurasia,37.1129,42.1432,clas1252,syc,language,TR,afro1255,,syc,100,800,false
+pwo,130,/workspaces/hack_research_2026/data/raw/wikipron/pwo_mymr_broad.tsv,pwow1235,Pwo Western Karen,Eurasia,17.3622,97.7044,pwow1235,pwo,language,MM;TH,sino1245,,pwo,,,false
+kyu,128,/workspaces/hack_research_2026/data/raw/wikipron/kyu_kali_broad.tsv,west2409,Western Kayah,Eurasia,18.687,97.4877,west2409,kyu,language,MM;TH,sino1245,,kyu,,,false
+oss,124,/workspaces/hack_research_2026/data/raw/wikipron/oss_cyrl_broad.tsv,iron1242,Iron Ossetian,Eurasia,42.98,44.61,iron1242,oss,language,RU,indo1319,,oss,,,false
+chb,121,/workspaces/hack_research_2026/data/raw/wikipron/chb_latn_broad.tsv,chib1270,Chibcha,South America,6.24999,-74.1666,chib1270,chb,language,CO,chib1249,,chb,1605,1800,false
+ale,121,/workspaces/hack_research_2026/data/raw/wikipron/ale_latn_broad.tsv,aleu1260,Aleut,North America,52.1228,-174.29,aleu1260,ale,language,RU;US,eski1264,,ale,,,false
+sms,119,/workspaces/hack_research_2026/data/raw/wikipron/sms_latn_broad.tsv,skol1241,Skolt Saami,Eurasia,68.8326,29.7204,skol1241,sms,language,FI;NO;RU,ural1272,,sms,,,false
+kwk,116,/workspaces/hack_research_2026/data/raw/wikipron/kwk_latn_broad.tsv,kwak1269,Kwak'wala,North America,50.9269,-127.308,kwak1269,kwk,language,CA,waka1280,,kwk,,,false
+pga,112,/workspaces/hack_research_2026/data/raw/wikipron/pga_latn_broad.tsv,suda1237,South Sudanese Creole Arabic,Africa,5.654,28.774,suda1237,pga,language,SS,afro1255,,pga,,,false
+gur,111,/workspaces/hack_research_2026/data/raw/wikipron/gur_latn_broad.tsv,fare1241,Farefare,Africa,11.0918,-0.81109,fare1241,gur,language,BF;GH,atla1278,,gur,,,false
+acm,108,/workspaces/hack_research_2026/data/raw/wikipron/acm_arab_broad.tsv,meso1252,Gilit Mesopotamian Arabic,Eurasia,33.8178,43.1095,meso1252,acm,language,IQ;IR;JO;SY;TR,afro1255,,acm,,,false
+lif,108,/workspaces/hack_research_2026/data/raw/wikipron/lif_limb_broad.tsv,limb1266,Limbu,Eurasia,27.2703,87.8859,limb1266,lif,language,IN;NP,sino1245,,lif,,,false
+kgp,107,/workspaces/hack_research_2026/data/raw/wikipron/kgp_latn_broad.tsv,kain1272,Kaingang,South America,-27.7671,-52.5394,kain1272,kgp,language,BR,nucl1710,,kgp,,,false
+tew,106,/workspaces/hack_research_2026/data/raw/wikipron/tew_latn_broad.tsv,tewa1260,Rio Grande Tewa,North America,35.9053,-106.124,tewa1260,tew,language,US,kiow1265,,tew,,,false
+ulw,103,/workspaces/hack_research_2026/data/raw/wikipron/ulw_latn_broad.tsv,ulwa1239,Ulwa,North America,12.932292,-83.581467,ulwa1239,ulw,language,NI,misu1242,,ulw,,,false
+pbv,101,/workspaces/hack_research_2026/data/raw/wikipron/pbv_latn_broad.tsv,pnar1238,Pnar,Eurasia,24.8237,92.2628,pnar1238,pbv,language,BD;IN,aust1305,,pbv,,,false
