@@ -14,7 +14,7 @@ for d in (PROCESSED, RESULTS):
     d.mkdir(parents=True, exist_ok=True)
 
 # ---- reproducibility ----
-SEED = 42
+SEED = 31
 
 # ---- which languages to keep ----
 MIN_WORDS = 1000      # drop languages with fewer words than this (after dedup)
