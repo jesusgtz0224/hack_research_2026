@@ -1,0 +1,19 @@
+test,block,r,p,n_pairs
+"cross-family, all languages",combined,0.387,0.001,5364
+"cross-family, all languages",bigram,0.338,0.001,5364
+"cross-family, all languages",clust_fin,0.216,0.001,5364
+"cross-family, all languages",clust_init,0.271,0.001,5364
+"cross-family, all languages",clust_med,0.18,0.003,5364
+"cross-family, all languages",end,0.223,0.001,5364
+"cross-family, all languages",shape,0.241,0.001,5364
+"cross-family, all languages",start,0.317,0.001,5364
+"cross-family, all languages",unigram,0.347,0.001,5364
+"cross-family, no Indo-European",combined,0.287,0.001,1524
+"cross-family, no Indo-European",bigram,0.159,0.013,1524
+"cross-family, no Indo-European",clust_fin,0.294,0.001,1524
+"cross-family, no Indo-European",clust_init,0.124,0.03,1524
+"cross-family, no Indo-European",clust_med,0.162,0.024,1524
+"cross-family, no Indo-European",end,0.229,0.001,1524
+"cross-family, no Indo-European",shape,0.201,0.006,1524
+"cross-family, no Indo-European",start,0.173,0.006,1524
+"cross-family, no Indo-European",unigram,0.09,0.161,1524

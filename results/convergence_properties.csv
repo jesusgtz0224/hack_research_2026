@@ -1,0 +1,125 @@
+name,family,cv_only,vowel_final,has_cluster
+Nyanja,Atlantic-Congo,0.753,0.998,0.103
+Hawaiian,Austronesian,0.588,0.917,0.108
+Kikuyu,Atlantic-Congo,0.582,1.0,0.063
+Maori,Austronesian,0.569,0.987,0.0
+Telugu,Dravidian,0.539,0.936,0.31
+Dhivehi,Indo-European,0.506,0.802,0.196
+Hausa,Afro-Asiatic,0.489,0.872,0.358
+Old Russian,Indo-European,0.417,0.798,0.442
+Kannada,Dravidian,0.374,0.974,0.511
+Votic,Uralic,0.366,0.751,0.443
+Eastern Panjabi,Indo-European,0.353,0.713,0.387
+Wu Chinese,Sino-Tibetan,0.333,0.687,0.282
+Assamese,Indo-European,0.322,0.608,0.189
+Tibetan,Sino-Tibetan,0.319,0.618,0.514
+Yoruba,Atlantic-Congo,0.292,0.988,0.039
+Haitian,Indo-European,0.284,0.589,0.364
+Javanese,Austronesian,0.27,0.474,0.331
+Lower Sorbian,Indo-European,0.267,0.548,0.494
+Sanskrit,Indo-European,0.267,0.759,0.562
+Burmese,Sino-Tibetan,0.252,0.559,0.525
+Min Bei Chinese,Sino-Tibetan,0.246,0.635,0.144
+Afar,Afro-Asiatic,0.24,0.76,0.472
+Sicilian,Indo-European,0.236,0.993,0.679
+Bengali,Indo-European,0.227,0.524,0.429
+Ingrian,Uralic,0.226,0.78,0.62
+Urdu,Indo-European,0.224,0.548,0.475
+Xiang Chinese,Sino-Tibetan,0.223,0.547,0.507
+Tamil,Dravidian,0.223,0.459,0.386
+Walloon,Indo-European,0.209,0.478,0.436
+Egyptian (Ancient),Afro-Asiatic,0.199,0.353,0.263
+Hindi,Indo-European,0.196,0.628,0.605
+Gujarati,Indo-European,0.195,0.512,0.489
+Aragonese,Indo-European,0.192,0.63,0.6
+Albanian,Indo-European,0.191,0.45,0.504
+Hunsrik,Indo-European,0.189,0.464,0.528
+Leizhou Chinese,Sino-Tibetan,0.186,0.595,0.07
+Galician,Indo-European,0.173,0.663,0.638
+Salar,Turkic,0.172,0.499,0.418
+Southern Pinghua,Sino-Tibetan,0.165,0.463,0.203
+Liv,Uralic,0.161,0.534,0.473
+Nuclear Pashto,Indo-European,0.16,0.475,0.478
+Upper Sorbian,Indo-European,0.156,0.529,0.639
+Slovenian,Indo-European,0.153,0.536,0.605
+Slovak,Indo-European,0.153,0.558,0.643
+Malayalam,Dravidian,0.151,0.617,0.639
+Jinyu Chinese,Sino-Tibetan,0.148,0.62,0.217
+Norwegian Nynorsk,Indo-European,0.146,0.454,0.59
+Bavarian,Indo-European,0.144,0.44,0.614
+Marathi,Indo-European,0.142,0.613,0.608
+Iloko,Austronesian,0.141,0.357,0.426
+Irish,Indo-European,0.141,0.364,0.43
+Pu-Xian Chinese,Sino-Tibetan,0.138,0.539,0.232
+Cebuano,Austronesian,0.136,0.327,0.463
+Norwegian,Indo-European,0.136,0.488,0.637
+French,Indo-European,0.134,0.59,0.655
+Modern Hebrew,Afro-Asiatic,0.133,0.279,0.343
+Portuguese,Indo-European,0.133,0.663,0.62
+Serbian-Croatian-Bosnian,Indo-European,0.13,0.588,0.705
+Gan Chinese,Sino-Tibetan,0.13,0.511,0.268
+South Levantine Arabic,Afro-Asiatic,0.128,0.321,0.616
+Tagalog,Austronesian,0.126,0.362,0.515
+Standard Indonesian,Austronesian,0.125,0.324,0.477
+Shan,Tai-Kadai,0.12,0.288,0.605
+Asturian-Leonese-Cantabrian,Indo-European,0.118,0.576,0.654
+Hakka Chinese,Sino-Tibetan,0.117,0.472,0.331
+Zulu,Atlantic-Congo,0.117,0.999,0.422
+Hijazi Arabic,Afro-Asiatic,0.117,0.319,0.537
+Swedish,Indo-European,0.117,0.363,0.613
+Limburgan,Indo-European,0.116,0.3,0.59
+Italian,Indo-European,0.115,0.982,0.826
+Finnish,Uralic,0.114,0.724,0.799
+Northern Kurdish,Indo-European,0.113,0.291,0.468
+Northern Daic,Tai-Kadai,0.113,0.487,0.309
+Esperanto,Artificial Language,0.112,0.562,0.742
+Mandarin Chinese,Sino-Tibetan,0.108,0.414,0.708
+Turkish,Turkic,0.108,0.382,0.626
+Coastal-Naga Bikol,Austronesian,0.107,0.247,0.394
+Danish,Indo-European,0.107,0.384,0.656
+Silesian,Indo-European,0.106,0.434,0.718
+Kashubian,Indo-European,0.106,0.479,0.753
+Modern Greek,Indo-European,0.106,0.632,0.663
+Min Nan Chinese,Sino-Tibetan,0.103,0.528,0.388
+Western Frisian,Indo-European,0.102,0.372,0.691
+Uighur,Turkic,0.098,0.234,0.507
+Spanish,Indo-European,0.095,0.569,0.711
+Tajik,Indo-European,0.093,0.357,0.643
+Polish,Indo-European,0.092,0.536,0.78
+Romanian,Indo-European,0.087,0.465,0.647
+Old French (842-ca. 1400),Indo-European,0.086,0.416,0.704
+Norwegian Bokmål,Indo-European,0.085,0.461,0.674
+Mon,Austroasiatic,0.084,0.325,0.314
+Middle High German,Indo-European,0.083,0.259,0.665
+Ionic-Attic Ancient Greek,Indo-European,0.082,0.397,0.583
+Scottish Gaelic,Indo-European,0.082,0.219,0.392
+Early Irish,Indo-European,0.082,0.281,0.561
+Basque,Basque,0.081,0.442,0.639
+Min Dong Chinese,Sino-Tibetan,0.081,0.461,0.265
+Middle Chinese,Sino-Tibetan,0.08,0.442,0.024
+Scots,Indo-European,0.075,0.209,0.544
+Middle English,Indo-European,0.075,0.329,0.677
+Welsh,Indo-European,0.073,0.241,0.669
+Old Chinese,Sino-Tibetan,0.071,0.115,0.651
+Irish Anglo-Norman,Indo-European,0.069,0.142,0.511
+Moroccan Arabic,Afro-Asiatic,0.068,0.378,0.758
+Faroese,Indo-European,0.067,0.434,0.647
+Palula,Indo-European,0.062,0.607,0.483
+Thai,Tai-Kadai,0.061,0.21,0.696
+Gothic,Indo-European,0.059,0.293,0.793
+Mongolian,Mongolic-Khitan,0.058,0.217,0.639
+Icelandic,Indo-European,0.058,0.47,0.756
+Maltese,Afro-Asiatic,0.055,0.491,0.818
+Dutch,Indo-European,0.055,0.261,0.826
+Central Khmer,Austroasiatic,0.055,0.223,0.6
+German,Indo-European,0.053,0.287,0.82
+Imperial Aramaic (700-300 BCE),Afro-Asiatic,0.053,0.139,0.711
+Old English (ca. 450-1100),Indo-European,0.051,0.381,0.826
+Yue Chinese,Sino-Tibetan,0.048,0.148,0.686
+Eastern Armenian,Indo-European,0.047,0.141,0.65
+English,Indo-European,0.041,0.252,0.68
+Khiamniungan Naga,Sino-Tibetan,0.037,0.464,0.636
+Moselle Franconian,Indo-European,0.036,0.087,0.652
+Afrikaans,Indo-European,0.032,0.173,0.692
+Kalaallisut,Eskimo-Aleut,0.027,0.244,0.683
+North Saami,Uralic,0.019,0.364,0.929
